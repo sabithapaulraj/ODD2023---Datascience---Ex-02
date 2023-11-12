@@ -12,6 +12,11 @@ You are given bhp.csv which contains property prices in the city of banglore, In
 (i) Using IQR, detect height outliers and print them
 
 ## CODE:
+
+```
+### Developed by: Sabitha P
+### Register number:212222040137
+```
 ### bhp.csv:
 ```python
 import pandas as pd
