@@ -50,7 +50,7 @@ new2=df[(z<3)]
 #AFTER REMOVING OUTLIER using Zscore method
 sns.boxplot(y="price_per_sqft",data=new2)
 ```
-### height_weight.csv:
+### height.csv:
 ```python
 import pandas as pd
 import seaborn as sns
